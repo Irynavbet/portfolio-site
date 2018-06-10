@@ -2,7 +2,7 @@
 
 let apiUrl
 const apiUrls = {
-  production: 'https://irynavbet.github.io/portfolio-site',
+  production: 'https://irynavbet.github.io/portfolio-site/',
   development: 'http://localhost:4741'
 }
 
